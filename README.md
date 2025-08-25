@@ -1,27 +1,42 @@
-# you-re-not-working-with-us-wtf-
-you’re not working with us? wtf??
-Software development. b2b SaaS. You’ve been doing it a while. Quite a while now. You’ve seen a lot of change take place. Not just within software, but in how it’s used too. And where it’s used. And what it’s used for. 
+# wtf - Creative Content Agency for B2B Tech Brands
 
-What you offer is niche. But it’s in demand. So to boost sales even more, you want a new way of looking at the value you provide to the customers you serve. But you can’t do that from inside your business. 
+## NAME
+wtf** - Creative content agency for B2B technology brands.
 
-What you need is a fresh pair of eyes. Not just any eyes though. The kind that look at tech from a b2b angle, through an engagement-focused lens…
+## SYNOPSIS
+`https://www.tbc.wtf/`
 
-(That’s us btw)
+## DESCRIPTION
+**wtf** is a UK-based creative agency specializing in content marketing for B2B technology brands. We help transform complex technical concepts into engaging, human-centric narratives across various digital platforms.
 
-Hi! We’re wtf (we weren’t just being rude…): a b2b marketing agency with a strong track record in guiding super smart SaaS companies to sales success!
+### Services include:
+- **Content Strategy**: Development of key messaging, communication strategies, and tone of voice.
+- **Content Creation**: Production of blogs, social media posts, case studies, whitepapers, video scripts, and more.
+- **Digital Deployment**: Management of SEO, SEM, email outreach, and cross-channel campaigns.
+- **Creative Campaigns**: Execution of unique and impactful marketing campaigns tailored to client needs.
 
-We understand complexity and translate it into content that creates conversation and conversions. We’re native English content writers by trade, but we’ve levelled up into fully fledged content marketers to meet the shifting needs of b2b SaaS providers.  
+We work with both established and emerging tech brands, including:
 
-Take the work we’ve done for PublishOne: a suite of blogs, whitepapers, and thought leader pieces – backed by Google Ads and SEO strategy that continues to win them new clients in the US. 
+- Red Hat
+- Microsoft 
+- Open Commerce 
+- Dawn Technologies
+- rb2
+- Oracle
+- PublishOne
+- Findity
+- PhotonDelta
+- Workpoint
 
-There there’s the positioning and brand voice we projects we’ve successfully navigated for Open Commerce, Platform Manager, and engin.
+## CONTACT
+- **Email**: [hello@tbc.wtf](mailto:hello@tbc.wtf)
+- **Phone**: +44 7956 490392
+- **Website**: [https://www.tbc.wtf/](https://www.tbc.wtf/)
 
-Not to mention the blogs, whitepapers, web copy, and video work we’ve done for Swedish fintech scaleup, Findity. 
+## SEE ALSO
+- [About tbc.wtf](https://www.tbc.wtf/about)
+- [Our Services](https://www.tbc.wtf/services)
+- [Our Work](https://www.tbc.wtf/work)
 
-And that’s even before we mention our work with the Microsoft Partner Network – as well as Red Hat, Okta, Cognizant, and Oracle. 
-
-But enough about us… what about you? Where do you stand on content, comms, SEO, video, and – eek – AI? 
-
-Reckon there’s a way we could work together?
-
-ping dave.barton@tbc.wtf
+## COPYRIGHT
+© 2025 tbc.wtf. All rights reserved.
